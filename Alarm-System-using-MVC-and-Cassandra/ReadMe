@@ -1,0 +1,11 @@
+# cassandra_alarmSystem_usingMVC
+
+Cassandra sample project using MVC pattern. Created on Spring Tool Suite.
+
+How to Run:
+
+Right click on AlarmSystemServlet. java and Run As -> Run on Server
+
+http://localhost:port_number/sample/AlarmSystemServlet
+
+Enter H01474777 to view the details. (Make sure your cassandra is up and running. It uses the similar tables created for vehicle tracker)
