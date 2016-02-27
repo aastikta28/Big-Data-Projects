@@ -1,0 +1,4 @@
+# Hadoop-Map-Reduce-Calculating-In-degrees-of-a-Graph
+Benchmarking of Performance of Hadoop Map-reduce using java to Calculate In-degree of all the Nodes of a Graph
+
+Java code to calculate the time taken by Hadoop map-reduce to calculate the in-degrees of a graph and benchmarking it to the existing results.
